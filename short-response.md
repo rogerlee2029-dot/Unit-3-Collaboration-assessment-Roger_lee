@@ -1,4 +1,4 @@
-# Short Response Questinos
+# Short Response Questions
 ## 1. If you are collaborating with a classmate, what is the first thing that each of the team members needs to do? Why is it important to do this step?
 The first thing that you need to do is to invite the person in github gui. This step is very important because if you do not invite the person that you want to add, he wont be able to make changes to what you did or to add their work to yours. For example, if I added somone into my work, they would be able to modify, add, and remove some part of my work, if I dont add them, they then will not be able to ake changes into my work.
 ## 2. Why do developers use branches ?
