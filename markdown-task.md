@@ -1,5 +1,5 @@
 
-Welcome to **TreeLife**, your guid about the beuty , diversety , and importantce of trees around the world.
+Welcome to **TreeLife**, your guid about the beauty , diversety , and importance of trees around the world.
 
 ---
 ## About Us
